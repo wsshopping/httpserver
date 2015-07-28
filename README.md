@@ -12,3 +12,6 @@ pip3 install aiomysql
 ###3. configure you mysql 
 
 ###4. just run this command 
+```
+./app.py
+```
